@@ -1,0 +1,9 @@
+rm TprimeBToTZ_M-1000_RH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+
+rm TprimeBToTZ_M-1400_RH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeBToTZ_M-1700_LH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeBToTZ_M-600_RH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeBToTZ_M-700_RH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeBToTZ_M-900_RH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeTToTH_M-1400_LH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
+rm TprimeTToTH_M-1500_LH_TuneCUETP8M1_13TeV-madgraph-pythia8_Summer16_v2.xml
